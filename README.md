@@ -1,1 +1,1 @@
-# rpi_ws2812_led
+# A basic Python script to control a Neopixel strip
